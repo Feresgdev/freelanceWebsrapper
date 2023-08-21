@@ -1,0 +1,25 @@
+{
+  "name": "freelance-webscrapper",
+  "version": "1.0.0",
+  "description": "this is a webscrapper for freelancr websites",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feresJ2EE/freelanceWebsrapper.git"
+  },
+  "keywords": [
+    "webscrapper",
+    "puppeteer",
+    "fiverr"
+  ],
+  "author": "guedich feres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feresJ2EE/freelanceWebsrapper/issues"
+  },
+  "homepage": "https://github.com/feresJ2EE/freelanceWebsrapper#readme"
+}
